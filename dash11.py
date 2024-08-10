@@ -13,9 +13,6 @@ Created on Wed Aug  7 01:22:19 2024
 """
 from PIL import Image, ImageDraw, ImageFont
 
-import dash
-from dash import dcc, html
-from dash.dependencies import Input, Output, State
 import base64
 import io
 from twelvedata import TDClient
