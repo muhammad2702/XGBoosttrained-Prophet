@@ -18,6 +18,8 @@ import io
 from twelvedata import TDClient
 import pandas as pd
 import numpy as np
+np.float_ = np.float64
+
 from prophet import Prophet
 from xgboost import XGBRegressor
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
