@@ -1,11 +1,11 @@
-numpy==1.21.6
+numpy
 scipy
 pandas
 scikit-learn
 fbprophet
 twelvedata
 seaborn
-altair==4.2.0
+altair
 Pillow
 xgboost
 matplotlib
