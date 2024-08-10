@@ -5,7 +5,7 @@ cython
 pystan
 scipy
 pandas
-fbprophet
+prophet
 xgboost
 scikit-learn
 twelvedata
