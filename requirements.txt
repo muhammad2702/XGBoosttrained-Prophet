@@ -3,6 +3,7 @@ scipy
 pandas
 scikit-learn
 fbprophet
+pystan
 twelvedata
 seaborn
 altair
