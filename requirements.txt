@@ -1,0 +1,14 @@
+Pillow
+twelvedata
+pandas
+numpy
+prophet
+xgboost
+scikit-learn
+matplotlib
+plotly
+seaborn
+keras
+statsmodels
+scipy
+streamlit
