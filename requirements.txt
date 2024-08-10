@@ -4,7 +4,7 @@ numpy==1.21.6
 scipy
 pandas
 numpy
-fbprophet
+prophet
 xgboost
 scikit-learn
 twelvedata
